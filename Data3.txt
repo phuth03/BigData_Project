@@ -1,0 +1,5 @@
+Item_Id,Item_name,Item_price,Item_qty,date
+09,Books,1200,5,2025-03-05
+10,Medicine,500,10,2025-02-28
+11,Books,1200,5,2025-03-05
+12,Medicine,500,10,2025-02-28

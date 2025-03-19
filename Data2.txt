@@ -1,0 +1,5 @@
+Item_Id,Item_name,Item_price,Item_qty,date
+05,Furniture,12000,2,2025-02-25
+06,Toys,1800,4,2025-01-15
+07,Furniture,12000,2,2025-02-25
+08,Toys,1800,4,2025-01-15

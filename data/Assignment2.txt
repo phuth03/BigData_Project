@@ -1,0 +1,12 @@
+Assignment 2
+
+Intermediate Level Exercise: File Processing in Scala using Data set or Data Frame
+
+
+
+Design a Scala program that reads a text file, counts the occurrences of each word, and displays the top N words by frequency. The program should take the file path and N as input parameters.
+
+Solution:
+
+The solution involves using Scala's file processing capabilities to read a text file, tokenize it into words, calculate word frequencies, and display the top N words.
+
